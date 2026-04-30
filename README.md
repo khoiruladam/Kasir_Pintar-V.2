@@ -28,9 +28,9 @@ Aplikasi Kasir Minimalis modern berbasis web yang dirancang dengan antarmuka pre
 
 
 ### 1. Dashboard (Tampilan Utama)
-![Tampilan Dashboard Admin](srcassets/img/dashboard_admin.png)
+![Tampilan Dashboard Admin](src/assets/img/dashboard_admin.png)
 *Pusat kendali aplikasi dengan statistik ringkas, kalender, dan grafik penjualan.*
 
 ### 2. Antarmuka Manajemen Member
-![Dashboard Petugas](srcassets/img/dashboard_petugas.png)
+![Dashboard Petugas](src/assets/img/dashboard_petugas.png)
 *Tampilan daftar pelanggan bergaya Card-List dengan generator Avatar otomatis berdasarkan nama.*
