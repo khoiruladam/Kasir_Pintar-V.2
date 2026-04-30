@@ -1,4 +1,4 @@
-# 🛒 Kasir Pintar (Modern Point of Sale)
+# 🛒 Kasir Pintar (Sistem Kasir Minimalis)
 
 Aplikasi Kasir Minimalis modern berbasis web yang dirancang dengan antarmuka premium bergaya *Glassmorphism*. Dioptimalkan sepenuhnya untuk perangkat *mobile* (Mobile-First) untuk memastikan pengalaman operasional kasir dan manajemen toko yang mulus, cepat, dan intuitif.
 
