@@ -33,4 +33,4 @@ Aplikasi Kasir Minimalis modern berbasis web yang dirancang dengan antarmuka pre
 
 ### 2. Antarmuka Manajemen Member
 ![Dashboard Petugas](src/assets/img/dashboard_petugas.png)
-*Tampilan daftar pelanggan bergaya Card-List dengan generator Avatar otomatis berdasarkan nama.*
+*Tampilan petugas bergaya Card-List dengan generator Avatar otomatis berdasarkan nama.*
